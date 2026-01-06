@@ -1,16 +1,30 @@
-[344. Reverse String](https://leetcode.com/problems/reverse-string/) Write a function that reverses a string. The input string is given as an array of characters `s`.
- 
-You must do this by modifying the input arrayin-placewith `O(1)` extra memory.
- 
+[344\. Reverse String](https://leetcode.com/problems/reverse-string/)
+
+Solved
+
+Easy
+
+Topics
+
+![conpanies icon](https://leetcode.com/_next/static/images/companies-5304359ce65d9cc54896008b59addeac.svg)Companies
+
+Hint
+
+Write a function that reverses a string. The input string is given as an array of characters `s`.
+
+You must do this by modifying the input array [in-place](https://en.wikipedia.org/wiki/In-place_algorithm) with `O(1)` extra memory.
+
 **Example 1:**
-**Input:** s = ["h","e","l","l","o"]
-**Output:** ["o","l","l","e","h"]
- 
+
+**Input:** s = \["h","e","l","l","o"\]
+**Output:** \["o","l","l","e","h"\]
+
 **Example 2:**
-**Input:** s = ["H","a","n","n","a","h"]
-**Output:** ["h","a","n","n","a","H"]
- 
+
+**Input:** s = \["H","a","n","n","a","h"\]
+**Output:** \["h","a","n","n","a","H"\]
+
 **Constraints:**
- 
-- `1 <= s.length <= 105`
-- `s[i]` is aprintable ascii character.
+
+-   `1 <= s.length <= 105`
+-   `s[i]` is a [printable ascii character](https://en.wikipedia.org/wiki/ASCII#Printable_characters).:
